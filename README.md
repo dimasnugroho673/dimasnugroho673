@@ -4,8 +4,6 @@
 
 Dimas is an enthusiastic iOS Developer and Bachelor of Computer Science from Maritim Raja Ali Haji University in 2021. He also Apple Developer Academy @IL Graduate. He passionate in programming, curious about Web Development, and iOS Development. Love collaborate as team and interested in anything related to technology.
 
-</br>
-
 ### Find me at
 <p style="align: left">
   <a href="https://www.linkedin.com/in/dimasnp/" target="_blank">
@@ -15,8 +13,6 @@ Dimas is an enthusiastic iOS Developer and Bachelor of Computer Science from Mar
     <img alt="Website" src="https://img.shields.io/badge/Website-3b5998.svg?&style=flat&logo=google-chrome&logoColor=white" />
   </a> 
 </p>
-
-</br>
 
 ### GitHub Statstics
 
@@ -29,4 +25,4 @@ Dimas is an enthusiastic iOS Developer and Bachelor of Computer Science from Mar
 
 </br>
 
-<img alt="LinkedIn" src="https://visitor-badge.glitch.me/badge?page_id=dimasnugroho673.dimasnugroho673" style="display: none" />
+<!-- <img alt="LinkedIn" src="https://visitor-badge.glitch.me/badge?page_id=dimasnugroho673.dimasnugroho673" style="display: none" /> -->
